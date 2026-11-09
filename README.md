@@ -6,20 +6,6 @@ An automated data discovery and classification pipeline built with **Python**, *
 
 ---
 
-## 📊 Real-World Project Evaluation & Scoring
-
-| Category | Score (Out of 100) | Real-World Value & Industry Relevance |
-| :--- | :---: | :--- |
-| **Security Knowledge** | **92/100** | Demonstrates mastery of data privacy frameworks (GDPR, PCI-DSS), entity recognition, and strict checksum validation. |
-| **Cybersecurity & SOC** | **88/100** | Highly applicable to Security Operations Center (SOC) data loss prevention (DLP), log monitoring, and triage workflows. |
-| **Cloud & Architecture** | **85/100** | Directly maps to Cloud Security Posture Management (CSPM) and Data Security Platforms (DSPM) scanning object stores and logs. |
-| **IT Administration** | **90/100** | Reflects sysadmin competence in managing local environments, troubleshooting path/permission policies, and parsing complex logs. |
-| **Hands-On Execution** | **95/100** | Built from scratch—handling directory synchronization, wheel package installations, and custom scanning logic. |
-
-* **Overall Project Impact Score:** **90 / 100**
-
----
-
 ## ⚙️ Step-by-Step Implementation Guide
 
 <img width="914" height="106" alt="presido 1 install and upgrade " src="https://github.com/user-attachments/assets/9d53d4a5-61fb-4d6b-92c5-c7150f3bce0c" />
