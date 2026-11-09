@@ -5,15 +5,15 @@ Automated PII and credit card data discovery engine for enterprise logs using Mi
 An automated data discovery and classification pipeline built with **Python**, **Microsoft Presidio**, and **spaCy** natural language processing (NLP). This tool parses complex, unstructured enterprise support logs to isolate, classify, and validate sensitive Personally Identifiable Information (PII) and financial card assets while filtering out false positives using cryptographic and checksum algorithms.
 
 ---
-
-## ⚙️ Step-by-Step Implementation Guide
+ ⚙️ Step-by-Step Implementation Guide
 
 <img width="914" height="106" alt="presido 1 install and upgrade " src="https://github.com/user-attachments/assets/9d53d4a5-61fb-4d6b-92c5-c7150f3bce0c" />
 
 
-### Step 1: Upgrade Packaging Toolchains
+ Step 1: Upgrade Packaging Toolchains
 Ensure your local Python package management tools are fully updated to support secure wheel installations[cite: 8].
 ```cmd
+
 python -m pip install --upgrade pip setuptools wheel
 
 
